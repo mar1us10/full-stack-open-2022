@@ -51,11 +51,11 @@ Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This cou
 
 * Structure of backend application, introduction to testing
 
-* Testing and backend
+* Testing the backend
 
 * User administration
 
-* Token administration
+* Token authentication
 
 
 ## [Part 5 - Testing React apps](https://fullstackopen.com/en/part5)
