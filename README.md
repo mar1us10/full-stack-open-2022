@@ -1,161 +1,161 @@
 # Deep Dive Into Modern Web Development
 
 
+Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
 
-### *Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.*
 
 
 ## [Part 0 - Fundamentals of Web apps](https://fullstackopen.com/en/part0)
 
-General Info
+* General Info
 
-Fundamentals of Web apps
+* Fundamentals of Web apps
 
 
 ## [Part 1 - Introduction to React](https://fullstackopen.com/en/part1)
 
-Introduction to React
+* Introduction to React
 
-JavaScript
+* JavaScript
 
-Component State, event handlers
+* Component State, event handlers
 
-A more complex state, debugging React apps
+* A more complex state, debugging React apps
 
 
 ## [Part 2 - Communicating with server](https://fullstackopen.com/en/part2)
 
-Rendering a collection, modules
+* Rendering a collection, modules
 
-Forms
+* Forms
 
-Getting data from server
+* Getting data from server
 
-Altering data in server
+* Altering data in server
 
-Adding styles to React app
+* Adding styles to React app
 
 
 ## [Part 3 - Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)
 
-Node.js and Express
+* Node.js and Express
 
-Deploying app to internet
+* Deploying app to internet
 
-Saving data to MongoDB
+* Saving data to MongoDB
 
-Validation and ESLint
+* Validation and ESLint
 
 
 ## [Part 4 - Testing Express servers, user administration](https://fullstackopen.com/en/part4)
 
-Structure of backend application, introduction to testing
+* Structure of backend application, introduction to testing
 
-Testing and backend
+* Testing and backend
 
-User administration
+* User administration
 
-Token administration
+* Token administration
 
 
 ## [Part 5 - Testing React apps](https://fullstackopen.com/en/part5)
 
-Login in frontend
+* Login in frontend
 
-props.children and proptypes
+* props.children and proptypes
 
-Testing React apps
+* Testing React apps
 
-End to end testing
+* End to end testing
 
 
 ## [Part 6 - Advanced state management](https://fullstackopen.com/en/part6)
 
-Flux-architecture and Redux
+* Flux-architecture and Redux
 
-Many reducers
+* Many reducers
 
-Communicating with server in a redux application
+* Communicating with server in a redux application
 
-React Query, useReducer and the context
+* React Query, useReducer and the context
 
 
 ## [Part 7 - React router, custom hooks, styling app with CSS and webpack](https://fullstackopen.com/en/part7)
 
-React-router
+* React-router
 
-Custom hooks
+* Custom hooks
 
-More about styles
+* More about styles
 
-Webpack
+* Webpack
 
-Class components, Miscellaneous
+* Class components, Miscellaneous
 
-Exercises: extending the bloglist
+* Exercises: extending the bloglist
 
 
 ## [Part 8 - GraphQL](https://fullstackopen.com/en/part8)
 
-GraphQL-server
+* GraphQL-server
 
-React and GraphQL
+* React and GraphQL
 
-Database and user administration
+* Database and user administration
 
-Login and updating the cache
+* Login and updating the cache
 
-Fragments and subscriptions
+* Fragments and subscriptions
 
 
 ## [Part 9 - TypeScript](https://fullstackopen.com/en/part9)
 
-Background and introduction
+* Background and introduction
 
-First steps with TypeScript
+* First steps with TypeScript
 
-Typing the express app
+* Typing the express app
 
-React with types
+* React with types
 
 
 ## [Part 10 - React Native](https://fullstackopen.com/en/part10)
 
-Introduction to React Native
+* Introduction to React Native
 
-React Native basics
+* React Native basics
 
-Communicating with server
+* Communicating with server
 
-Testing and extending our application
+* Testing and extending our application
 
 
 ## [Part 11 - CI/CD](https://fullstackopen.com/en/part11)
 
-Introduction to CI/CD
+* Introduction to CI/CD
 
-Getting started with GitHub Actions
+* Getting started with GitHub Actions
 
-Deployment
+* Deployment
 
-Keeping green
+* Keeping green
 
-Expanding further
+* Expanding further
 
 
 ##  [Part 12 - Containers](https://fullstackopen.com/en/part12)
 
-Introduction to Containers
+* Introduction to Containers
 
-Building and configuring environments
+* Building and configuring environments
 
-Basics of Orchestration
+* Basics of Orchestration
 
 
 ## [Part 13 - Using relational databases](https://fullstackopen.com/en/part13)
 
-Using relational databases with Sequelize
+* Using relational databases with Sequelize
 
-Join tables and queries
+* Join tables and queries
 
-Migrations, many-to-many relationships
+* Migrations, many-to-many relationships
