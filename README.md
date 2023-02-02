@@ -1,22 +1,20 @@
 # Deep Dive Into Modern Web Development
 
 
-## Full Stack Open 2022 - 2023
-
 
 ### *Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go!*
 ### *This course will introduce you to modern JavaScript-based web development.*
 ### *The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.*
 
 
-### [Part 0 - Fundamentals of Web apps](https://fullstackopen.com/en/part0)
+## [Part 0 - Fundamentals of Web apps](https://fullstackopen.com/en/part0)
 
 General Info
 
 Fundamentals of Web apps
 
 
-### [Part 1 - Introduction to React](https://fullstackopen.com/en/part1)
+## [Part 1 - Introduction to React](https://fullstackopen.com/en/part1)
 
 Introduction to React
 
@@ -27,7 +25,7 @@ Component State, event handlers
 A more complex state, debugging React apps
 
 
-### [Part 2 - Communicating with server](https://fullstackopen.com/en/part2)
+## [Part 2 - Communicating with server](https://fullstackopen.com/en/part2)
 
 Rendering a collection, modules
 
@@ -40,7 +38,7 @@ Altering data in server
 Adding styles to React app
 
 
-### [Part 3 - Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)
+## [Part 3 - Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)
 
 Node.js and Express
 
@@ -51,7 +49,7 @@ Saving data to MongoDB
 Validation and ESLint
 
 
-### [Part 4 - Testing Express servers, user administration](https://fullstackopen.com/en/part4)
+## [Part 4 - Testing Express servers, user administration](https://fullstackopen.com/en/part4)
 
 Structure of backend application, introduction to testing
 
@@ -62,7 +60,7 @@ User administration
 Token administration
 
 
-### [Part 5 - Testing React apps](https://fullstackopen.com/en/part5)
+## [Part 5 - Testing React apps](https://fullstackopen.com/en/part5)
 
 Login in frontend
 
@@ -73,7 +71,7 @@ Testing React apps
 End to end testing
 
 
-### [Part 6 - Advanced state management](https://fullstackopen.com/en/part6)
+## [Part 6 - Advanced state management](https://fullstackopen.com/en/part6)
 
 Flux-architecture and Redux
 
@@ -84,7 +82,7 @@ Communicating with server in a redux application
 React Query, useReducer and the context
 
 
-### [Part 7 - React router, custom hooks, styling app with CSS and webpack](https://fullstackopen.com/en/part7)
+## [Part 7 - React router, custom hooks, styling app with CSS and webpack](https://fullstackopen.com/en/part7)
 
 React-router
 
@@ -99,7 +97,7 @@ Class components, Miscellaneous
 Exercises: extending the bloglist
 
 
-### [Part 8 - GraphQL](https://fullstackopen.com/en/part8)
+## [Part 8 - GraphQL](https://fullstackopen.com/en/part8)
 
 GraphQL-server
 
@@ -112,7 +110,7 @@ Login and updating the cache
 Fragments and subscriptions
 
 
-### [Part 9 - TypeScript](https://fullstackopen.com/en/part9)
+## [Part 9 - TypeScript](https://fullstackopen.com/en/part9)
 
 Background and introduction
 
@@ -123,7 +121,7 @@ Typing the express app
 React with types
 
 
-### [Part 10 - React Native](https://fullstackopen.com/en/part10)
+## [Part 10 - React Native](https://fullstackopen.com/en/part10)
 
 Introduction to React Native
 
@@ -134,7 +132,7 @@ Communicating with server
 Testing and extending our application
 
 
-### [Part 11 - CI/CD](https://fullstackopen.com/en/part11)
+## [Part 11 - CI/CD](https://fullstackopen.com/en/part11)
 
 Introduction to CI/CD
 
@@ -147,7 +145,7 @@ Keeping green
 Expanding further
 
 
-###  [Part 12 - Containers](https://fullstackopen.com/en/part12)
+##  [Part 12 - Containers](https://fullstackopen.com/en/part12)
 
 Introduction to Containers
 
@@ -156,7 +154,7 @@ Building and configuring environments
 Basics of Orchestration
 
 
-### [Part 13 - Using relational databases](https://fullstackopen.com/en/part13)
+## [Part 13 - Using relational databases](https://fullstackopen.com/en/part13)
 
 Using relational databases with Sequelize
 
