@@ -1,0 +1,12 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXItYWRtaW4xMCIsImlkIjoiNjNlYzgzOTIxNzgzZTIzOThhMzY2OTQ2IiwiaWF0IjoxNjc2NDQ0NjM5LCJleHAiOjE2NzY0NDU1Mzl9.kTZHZcE8edhpqxk7C_QPud70NO8WF9rOksk5fCyyBog
+
+{
+  "url": "https://testblog.com/articles/newtesting.html",
+  "title": "Testing Again",
+  "author": "Test Admin",
+  "likes": 25
+}
+
+

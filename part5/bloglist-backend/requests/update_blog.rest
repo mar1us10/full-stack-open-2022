@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/63e6281dd6c8d0a3f7c12e5c
+Content-Type: application/json
+
+{
+  "title": "Things I do know",
+  "author": "Dan Abramov",
+  "url": "https://overeacted.io/doknow",
+  "likes": 111
+}
